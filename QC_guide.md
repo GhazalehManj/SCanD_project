@@ -9,7 +9,7 @@ Here are guidelines to QC each pipeline results.
     * Red outline (skullstrip) doesn’t include skull, outlines the brain
     * Blue outline traces white matter area (lighter parts of brain)
   
-      <img width="683" alt="image" src="https://github.com/GhazalehManj/SCanD_project_GMANJ/assets/126309136/44712162-3d37-4ebf-bc42-2180dcdf6db5">
+      ![image](figures/Good_BET.png)
 
   
 2) Good MNI wrap:
